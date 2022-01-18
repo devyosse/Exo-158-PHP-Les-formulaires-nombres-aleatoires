@@ -1,3 +1,9 @@
+<form method="post" action="script.php">
+    <label for="number">Nombre : </label>
+    <input type="number" name="number" id="number">
+</form>
+
+
 <?php
 /*
 - Créer un script php qui permet de générer un nombre aléatoire compris entre x et y
